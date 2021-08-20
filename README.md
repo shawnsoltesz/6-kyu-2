@@ -46,15 +46,15 @@ D
 String
 sub-string
 Index of
-Parse Int.32
+Parse Int.32 (maybe?)
 
 A
 
-1. Review the string of characters for vowels. for loop
+1. Review the string of characters for vowels. (for loop)
 2. Based on the length on the number of characters using the index number (for loop)
-3. Establish a list of vowels variable(s)?
-4. In a loop, use LINQ to transverse through the string and find any vowels
-5. If a vowel is located, record a bool=True
-6. Loop through the string to tally the number of trues of consecutive True
-7. Loop through in Ascending order - value in index 0 is the longest substring
+3. Establish a list of vowels variable(s)(?)
+4. In a loop, use (LINQ) to transverse through the string and find any vowels
+5. If a vowel is located, record a (bool=True)
+6. Loop through the string to tally the number of trues of consecutive True (Consecutive means number of 'trues' between 'falses')
+7. Loop through tally in Ascending order - value in index 0 is the longest substring
 8. Return a value of 0 if no vowels in string
